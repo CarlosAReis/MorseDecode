@@ -1,6 +1,9 @@
 ### PROJETO 01 
 #### DECIFRANDO CÓDIGO MORSE
 
+Professora Carolina Zambelli -  MBA IMPACTA - Data science & Advanced analytics
+
+
 Imagine que você é um agente especial que possui a missão de interceptar mensagens secretas. Por meio da sua rede de informantes você descobre que tais mensagens estão sendo transmitidas por meio de uma frequência de rádio não utilizada em código morse.
 
 <img src="../../imgs/projetos/missao_morse.png" style="max-width:500px; "/>
