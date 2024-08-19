@@ -7,7 +7,7 @@ Materia: Data science com Python
 
 Definição das funções e entradas e saidas
 
-Ao executar o arquivo “decode_morse.py” o terminal irá solicitar a entrada de uma frase qualquer, desde que não contenha caracteres especiais, letras com acentos e cedilha, com cada palavra separada por espaço simples, como a escrita normal e sem pontuação, podendo ser letras e números inteiros (não negativos).
+Ao executar o arquivo “decode_morse.py” o terminal irá solicitar a entrada de uma frase qualquer, em código morse, desde que não contenha caracteres especiais, letras com acentos e cedilha, com cada palavra separada por espaço simples, como a escrita normal e sem pontuação, podendo ser letras e números inteiros (não negativos).
 Como saída é gerado um arquivo CSV salvo na mesma pasta do projeto, que contém 3 colunas: na primeira coluna a frase inserida, na segunda o timestamp (data e hora) da criação da frase e na última o código desta frase em Morse. 
 As funções estão em um arquivo chamado “decode_morse.py”, estão separadas de forma que seja possível importar essas funções em outros projetos e códigos, e o dicionário para código morse está no arquivo “config.py”.
 As funções são: 
