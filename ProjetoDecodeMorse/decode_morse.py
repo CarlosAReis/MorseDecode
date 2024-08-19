@@ -103,8 +103,8 @@ def save_clear_msg_csv_hdr(msg):
 
 if __name__ == "__main__":
     
-    frase = input("Digite uma frase: ")
-    mensagem = code_morse_create(frase)
-    save_clear_msg_csv_hdr(mensagem)
+    frase = input("Digite uma frase em código morse com cada palavra separada por 2 espaços e cada letra por 1 espaço:")
+    #mensagem = code_morse_create(frase)
+    save_clear_msg_csv_hdr(frase)
     #print(save_clear_msg_csv_hdr.__doc__)
     #print(pd.to_pickle.__doc__)
